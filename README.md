@@ -1,6 +1,6 @@
 # 🤖 AgentForge
 
-**A self-routing multi-agent AI team — inspired by [gstack](https://github.com/garrytan/gstack), built as a standalone Python CLI deployable to any GitHub repo.**
+**A self-routing multi-agent AI team — built as a standalone Python CLI deployable to any GitHub repo.**
 
 One idea → 8 specialist AI agents → full sprint output (spec, architecture, code review, test plan, security audit, docs, PR description) — all in one command.
 
